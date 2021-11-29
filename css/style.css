@@ -1,0 +1,32 @@
+@import url(components/container.css);
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url("components/card.css");
+
+
+
+body{
+	background: white;
+	color: #181D31;
+	font-family: 'Lora', serif;
+	font-size: 12px;
+	font-weight: lighter;
+}
+h1, h2, h3 {
+font-family: Roboto, sans-serif;
+font-weight: bold;
+
+
+}
+
+a {
+	text-decoration: none;
+}
+
+   #apply-section {
+        width: 100%;
+        max-width: 600px;
+        height: 400px;
+        margin: 0 auto;
+      }
